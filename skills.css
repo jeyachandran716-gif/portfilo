@@ -1,0 +1,46 @@
+body {
+            background-color:rgb(11, 20, 28)
+
+        }
+        
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 1px;
+        }
+
+       nav ul {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav a {
+            text-decoration: none;
+            margin-left: 40px;
+            font-size: 24px;
+            color: aqua;
+            font-weight: bold;
+        }
+        .top {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        footer {
+            /*background-color:aqua ;*/
+            text-align: center;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color:aqua ;
+            margin-bottom: auto;
+            
+        }
+        .head {
+            text-align: center;
+            color: aqua;
+        }
+        .i {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
