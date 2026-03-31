@@ -39,8 +39,100 @@ body {
         }
         .head {
             text-align: center;
-            color: aqua;
+            color:white;
         }
         .i {
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-family:'Times New Roman', Times, serif;
+            margin-top: 50px;
         }
+        .a {
+            color: aqua;
+            margin-top: -25px;
+        }
+  .cert {
+    color: white;
+  }
+  .certbox {
+    height: 450px;
+    width: 350px;
+    background-color: rgb(11, 20, 28) ;
+    border-radius: 20px;
+    margin-left: 70px;
+  }
+  .certbox:hover {
+    transform: scale(1.05);
+    transition: transform 0.4s;
+  }
+  /* .cert-1 {
+    height: 30px;
+    width: 97px;
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 30px;
+    font-size: 13px;
+    color:rgb(11, 20, 28);
+  }
+  .cert-2 {
+    height: 30px;
+    width: 110px;
+    background-color: aqua;
+    margin-left: 100px;
+    border-radius: 30px; */
+
+  
+  .cert0 {
+    display: flex;
+    
+  }
+  .cert3 {
+    font-family: 'Poppins'sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+    
+  }
+  .cert4 {
+    height: 203px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 25px;
+  }
+  .certboxx {
+    height: 1050px;
+    width: 1500px;
+    background-color: aqua;
+    border-radius: 30px;
+  }
+  /* .hrr {
+    height: 5px;
+    width: 5px;
+    
+    background-color: rgb(11, 20, 28);
+  } */
+  .co {
+    color: aqua;
+    text-align: center;
+  }
+  .cert-11 {
+    margin-left: 5px;
+    margin-top: 7px;
+    font-weight: bold;
+  }
+  
+  .certbox2 {
+    height: 450px;
+    width: 350px;
+    background-color:rgb(11, 20, 28) ;
+    border-radius: 20px;
+    margin-left: 70px;
+  }
+  .cert02 {
+    display: flex;
+  }
+  .co2 {
+    font-family: 'Poppins'sans-serif;
+    color: aqua;
+    text-align: center;
+  }
+
