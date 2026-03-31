@@ -2,6 +2,10 @@ body {
             background-color:rgb(11, 20, 28)
 
         }
+        header {
+            position: sticky; top: 0; z-index: 100;
+            background-color:rgb(11, 20, 28) ;
+        }
         
         nav {
             display: flex;
@@ -57,7 +61,7 @@ body {
     width: 350px;
     background-color: rgb(11, 20, 28) ;
     border-radius: 20px;
-    margin-left: 70px;
+    margin-left: 100px;
   }
   .certbox:hover {
     transform: scale(1.05);
@@ -99,10 +103,11 @@ body {
     margin-top: 25px;
   }
   .certboxx {
-    height: 1050px;
-    width: 1500px;
+    height: 1030px;
+    width: 1400px;
     background-color: aqua;
     border-radius: 30px;
+    margin-left: 50px;
   }
   /* .hrr {
     height: 5px;
@@ -135,4 +140,150 @@ body {
     color: aqua;
     text-align: center;
   }
+  .cert42 {
+    height: 203px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+  .cert32 {
+    font-family: 'Poppins'sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+  }
+  .certbox2:hover {
+    transform: scale(1.05);
+    transition: transform 0.4s;
+  }
+  .certbox3 {
+    height: 450px;
+    width: 350px;
+    background-color:rgb(11, 20, 28) ;
+    border-radius: 20px;
+    margin-left: 70px;
+  }
+  .certbox3:hover {
+    transform: scale(1.05);
+    transition: transform 0.4s;
+  }
+  .cert03 {
+    display: flex;
+  }
+  .cert33 {
+    font-family: 'Poppins'sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+  }
+  .cert43 {
+    height: 203px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 25px;
+  }
+  .co3 {
+    font-family: 'Poppins'sans-serif;
+    color: aqua;
+    text-align: center;
+  }
+  .cert002 {
+    display: flex;
+  } 
+  .certbox4 {
+     height: 450px;
+    width: 350px;
+    background-color: rgb(11, 20, 28) ;
+    border-radius: 20px;
+    margin-left: 100px;
+  }
+  .cert04 {
+    display: flex;
+  }
+  .cert34 {
+    font-family: 'Poppins'sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+  }
+  .co4 {
+    font-family: 'Poppins'sans-serif;
+    color: aqua;
+    text-align: center;
+  }
+  .cert44 {
+    height: 203px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .certbox4:hover {
+    transform: scale(1.05);
+    transition: transform 0.4s;
+  }
+  .certbox5 {
+    height: 450px;
+    width: 350px;
+    background-color:rgb(11, 20, 28) ;
+    border-radius: 20px;
+    margin-left: 70px;
+  }
+  .cert35 {
+    font-family: 'Poppins'sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+  }
+  .cert05 {
+    display: flex;
+  }
+  .co5 {
+    font-family: 'Poppins'sans-serif;
+    color: aqua;
+    text-align: center;
+  }
+  .cert45 {
+    height: 203px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .certbox6 {
+    height: 450px;
+    width: 350px;
+    background-color:rgb(11, 20, 28) ;
+    border-radius: 20px;
+    margin-left: 70px;
+  }
+  .cert36 {font-family: 'Poppins'sans-serif;
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+  }
+  .cert05 {
+    display: flex;
+  }
+  .co6 {font-family: 'Poppins'sans-serif;
+    color: aqua;
+    text-align: center;
+  }
+  .cert46 {
+    height: 203px;
+    width: 330px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .certbox6:hover {
+    transform: scale(1.05);
+    transition: transform 0.4s;
+  }
+  
+
+
+  
 

@@ -2,6 +2,10 @@ body {
             background-color:rgb(11, 20, 28)
 
         }
+        header {
+            position: sticky; top: 0; z-index: 100;
+            background-color:rgb(11, 20, 28) ;
+        }
         
         nav {
             display: flex;
@@ -152,6 +156,7 @@ body {
             font-family:cursive;
             font-weight: bold;
             cursor:auto;
+            cursor: pointer;
         }
         .about {
             color: aqua;
