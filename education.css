@@ -59,11 +59,13 @@ body {
             margin-top: -20px; 
         }    
         .bx1 {
-            height: 500px;
-            width: 400px;
-            background-color: aqua;
+            height: 520px;
+            width: 450px;
+            /* background-color: aqua; */
             border-radius: 30px;
-            margin-left: 250px;
+            margin-left: 200px;
+            border: 7px solid aqua;
+            color: aqua;
         }
         .bx1:hover {
             transform: scale(1.05);
@@ -73,13 +75,227 @@ body {
             display: flex;
         }
         .bx2 {
-            height: 500px;
-            width: 400px;
-            background-color: aqua;
+            height: 520px;
+            width: 450px;
+            border: 7px solid aqua;
             border-radius: 30px;
             margin-left: 200px;
+            
         }
         .bx2:hover {
             transform: scale(1.05);
             transition: transform 0.4s;
         }
+        .put {
+            margin-top: 17px ;
+            margin-left: 30px;
+            font-family: 'Poppins'sans-serif;
+            font-weight: bold;
+        }
+        .purr {
+            height: 20px;
+            width: 100px;
+            border: 3px solid orange;
+            border-radius: 30px;
+            margin-top: 15px;
+            margin-left: 200px;
+        }
+        .pur {
+            margin-left: 10px;
+            margin-top: 1px;
+            color: orange;
+            font-size: 15px;
+        }
+        .bot {
+            display: flex;
+        }
+        .bca {
+            font-family: 'Poppins'sans-serif;
+            margin-left: 10px;
+            font-weight: bold;
+            color: white;
+        }
+        .col {
+            width: 410px;
+            height: 45px;
+            border: 2px solid white;
+            font-family: 'Poppins'sans-serif;
+            border-radius: 10px;
+            margin-left: 20px;
+        }
+        .tamil {
+            margin-top: -18px;
+            color: white;
+            font-family: 'poppins'sans-serif;
+            margin-left: 30px;
+            font-size: 13px;
+        }
+        .coll {
+            margin-left: 6px;
+            font-size: 15px;
+            color: aqua;
+            margin-top: 3px;
+        }
+        .topp {
+            display: flex;
+            color: white;
+        }
+        .sem {
+            height: 70px;
+            width: 190px;
+            
+            margin-left: 20px;
+            margin-top: 10px;
+            border-radius: 10px;
+            border: 3px solid white;
+        }
+        .pro {
+            height: 70px;
+            width: 190px;
+            margin-left: 20px;
+            margin-top: 10px;
+            border-radius: 10px;
+            border: 3px solid white;
+        }
+        .cgp {
+            margin-top: 5px;
+            margin-left: 20px;
+            color: white;
+        }
+        .mark {
+            margin-top: -15px;
+            margin-left: 30px;
+            color: aqua;
+        }
+        .sem2 {
+            margin-top: 8px;
+            margin-left: 10px;
+            color: white;
+            font-size: 17px;
+        }
+        .mark2 {
+            margin-top: -10px;
+            margin-left: 7px;
+            color: aqua;
+            font-size: 17px;
+        }
+        .dur {
+            height: 70px;
+            width: 190px;
+            border: 3px solid white;
+            margin-left: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+        }
+        .dur1 {
+            padding-top: 10px;
+            margin-top: 3px;
+            margin-left: 20px;
+            color:white;
+        }
+        .one {
+            margin-top: -15px;
+            margin-left: 16px;
+            color:aqua;
+            font-size: 19px;
+        }
+       .edu-bar-wrap { 
+        margin-bottom: 18px;
+        width: 400px; 
+    margin-left: 20px;
+        margin-top: 10px;}
+
+    .edu-bar-label {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.75rem;
+      color: white;
+      margin-bottom: 6px;
+    }
+
+    .edu-bar-label span:last-child { color: #00bcd4; }
+
+    .edu-bar-track {
+      background: rgba(255,255,255,0.07);
+      border-radius: 99px;
+      height: 6px;
+      overflow: hidden;
+    }
+
+    .edu-bar-fill {
+      height: 100%;
+      width: 0%;
+      border-radius: 99px;
+      background: linear-gradient(90deg, aqua, white);
+      transition: width 1.4s ease;
+    }
+    .edu-tags span {
+      font-size: 0.72rem;
+      font-weight: 500;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.09);
+      color: #7B8FA8;
+      padding: 4px 11px;
+      border-radius: 6px;
+    }
+    .edu-tags-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: white;
+      margin-bottom: 8px;
+      margin-left: 20px;
+    }
+
+    .edu-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      margin-left: 30px;
+    }
+    .timee {
+        color: white;
+        text-align: center;
+
+    }
+    .put1{
+        color: aqua;
+        margin-top: 17px ;
+        margin-left: 30px;
+        font-family: 'Poppins'sans-serif;
+        font-weight: bold;
+        
+    }
+    .pur1 {
+         margin-left: 10px;
+            margin-top: 1px;
+            color: rgb(9, 192, 9);
+            font-size: 15px;
+    }
+    .purr1 {
+        height: 20px;
+            width: 115px;
+            border: 3px solid  rgb(9, 192, 9);
+            border-radius: 30px;
+            margin-top: 15px;
+            margin-left: 200px;
+    }
+    .dur12 {
+        padding-top: 2px;
+        margin-top: 3px;
+        margin-left: 20px;
+        color:white;
+        font-size: 18px;
+    }
+    .one2 {
+        margin-top: -20px;
+        margin-left: 20px;
+        color:aqua;
+        font-size: 19px;
+    }
+    .mark23 {
+        margin-top: -12px;
+        margin-left: 15px;
+        color: aqua;
+        font-size: 25px;
+        
+    }
