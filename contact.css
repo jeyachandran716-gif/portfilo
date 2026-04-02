@@ -1,0 +1,133 @@
+body {
+            background-color:rgb(11, 20, 28)
+
+        }
+        header {
+            position: sticky; top: 0; z-index: 100;
+            background-color:rgb(11, 20, 28) ;
+        }
+        
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 1px;
+        }
+
+       nav ul {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav a {
+            text-decoration: none;
+            margin-left: 40px;
+            font-size: 24px;
+            color: aqua;
+            font-weight: bold;
+        }
+        .top {
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        footer {
+            /*background-color:aqua ;*/
+            text-align: center;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color:aqua ;
+            margin-bottom: auto;
+            margin-top: 200px;
+        }
+        .head {
+            text-align: center;
+            color: white;
+        }
+        .name1 {
+            font-size: 40px;
+            color: aqua;
+        }
+        .name2 {
+            margin-top: -15px;
+        }
+        .name3 {
+            margin-top: -15px;
+        }
+        .row1 {
+            display: flex;
+            color: white;
+            cursor: pointer;
+        }
+        .in {
+            height: 100px;
+            width: 500px;
+            border: 2px solid white;
+            border-radius: 20px;
+            margin-left: 170px;
+            margin-top: 30px;
+            display: flex;
+        }
+        .em {
+            height: 100px;
+            width: 500px;
+            border: 2px solid white;
+            border-radius: 20px;
+            margin-left: 150px;
+            margin-top: 30px;
+        }
+        .em:hover {
+            transform: scale(1.05);
+    transition: transform 0.4s;
+  }
+  .in:hover {
+     transform: scale(1.05);
+    transition: transform 0.4s;
+  }
+  .rem1 {
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+  }
+  .linkk {
+    font-size: 30px;
+    margin-top: 25px;
+    margin-left:20px ;
+    color: white;
+    font-family: 'Poppins'sans-serif;
+  }
+  .linkk1 {
+    margin-top:-30px ;
+    margin-left: 20px;
+
+  }
+  .hi {
+    color: white;
+    text-decoration: none;
+  }
+  .em {
+    display: flex;
+    cursor: pointer;
+  }
+  .rem2 {
+    height: 75px;
+    margin-left: 20px;
+    width: 75px;
+    margin-top: 10px;
+  }
+  .rem3 {
+    height: 80px;
+    width: 80px;
+    margin-left: 25px;
+    margin-top: 10px;
+  }
+  .rem4 {
+    height: 110px;
+    margin-left: 0px;
+    width: 110px;
+    margin-top: -5px;
+  }
+  
+
+        

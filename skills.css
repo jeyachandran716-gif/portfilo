@@ -282,6 +282,24 @@ body {
     transform: scale(1.05);
     transition: transform 0.4s;
   }
+  .neet {
+             color:rgb(24, 36, 43);
+            width: 150px;
+            height: 50px;
+            background-color: aqua;
+            border-radius: 30px;
+            font-size: 25px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight:bold;
+            margin-left: 1250px;
+            margin-top: 55px;
+            cursor: pointer;
+
+        }
+        .certbox5:hover {
+    transform: scale(1.05);
+    transition: transform 0.4s;
+  }
   
 
 
